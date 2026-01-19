@@ -99,7 +99,8 @@
                 <version>3.2.2</version>
             </plugin>
 
-            <!--squ_7c61658bc73f7237bd154bd71016336ec42e0576-->
+            <!--ec2: sqa_3f75ca9a386f25151b8400fe39cc002be706cdae-->
+            <!--docker: squ_7c61658bc73f7237bd154bd71016336ec42e0576-->
             <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
